@@ -1,6 +1,8 @@
-### hola! soy javier  🤠
+# hola! soy javier  🤠
 
 ## waa
+
+Con suerte Ingeniero Civil Informático, algún día...
 <!--
 **jabibi-g/jabibi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
